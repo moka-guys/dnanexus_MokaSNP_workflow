@@ -7,7 +7,7 @@ Name                SNP_Genotyping_v1.0.0
 State               open
 Visibility          visible
 Types               -
-Properties          -
+Properties          github release=v1.0.0
 Tags                -
 Outgoing links      -
 Created             Fri Feb  5 16:08:42 2021
