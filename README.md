@@ -1,1 +1,1 @@
-# dnanexus_SNPGenotyping_workflow
+# dnanexus_MokaSNP_workflow
